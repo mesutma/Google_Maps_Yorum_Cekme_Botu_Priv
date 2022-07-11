@@ -1,6 +1,10 @@
 # Google_Maps_Yorum_Cekme_Botu
 Google Maps Yorum Çekme Botu
 
+SATIN ALMAK İÇİN İLETİŞİME GEÇEBİLİRSİNİZ!
+------------------------------------------
+İg: by.can.i [Web Sitem 1](https://fastuptime.com) [Web Sitem 2](https://speedsmm.com)
+
 # URL Alma
 -> Gooogle Maps'e girin ve mekanı bulun
 ![image](https://user-images.githubusercontent.com/63351166/178109439-bc5bd207-51df-4f54-97db-cd186d5a4faa.png)
