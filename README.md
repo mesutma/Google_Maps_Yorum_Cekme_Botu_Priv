@@ -1,6 +1,8 @@
 # Google_Maps_Yorum_Cekme_Botu
 Google Maps Yorum Çekme Botu
 
+PROGRAMI SATIN ALMANIZ GEREKMEKTEDİR BURADA DOSYALARI YOKTUR!
+-------------------------------------------------------------
 SATIN ALMAK İÇİN İLETİŞİME GEÇEBİLİRSİNİZ!
 ------------------------------------------
 İg: by.can.i [Web Sitem 1](https://fastuptime.com) [Web Sitem 2](https://speedsmm.com)
