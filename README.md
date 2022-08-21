@@ -1,7 +1,7 @@
 # Google_Maps_Yorum_Cekme_Botu
 Google Maps Yorum Çekme Botu
 
-PROGRAMI SATIN ALMANIZ GEREKMEKTEDİR BURADA DOSYALARI YOKTUR!
+PROGRAMI SATIN ALMANIZ GEREKMEKTEDİR BURADA DOSYALARI YOKTUR! Bir Süreliğine Ücretsiz!
 -------------------------------------------------------------
 SATIN ALMAK İÇİN İLETİŞİME GEÇEBİLİRSİNİZ!
 ------------------------------------------
